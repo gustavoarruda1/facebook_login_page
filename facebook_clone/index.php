@@ -31,6 +31,7 @@
             <div class="clear"></div>
         </div><!--center-->
     </header>
+    
     <main>
         <section class="section-main">
             <div class="center">
@@ -86,25 +87,22 @@
                             <div class="input-radio">
                                 <input type="radio" name="sexo" value="masculino">
                                 <h2>Masculino</h2>
-                            </div>
+                            </div><!--input-radio-->
                             <div class="input-radio"><input type="radio" name="sexo" value="feminino">
                                 <h2>Feminino</h2>
-                            </div>
-
+                            </div><!--input-radio-->
                             <div class="clear"></div>
                         </div><!--input-cadastro3-->
                         <div class="input-cadastro3">
                             <input type="submit" name="acao" value="Cadastrar-se">
                         </div><!--input-cadastro3-->
-
-
                     </form><!--criar-conta-->
-
                 </div><!--cadastro-->
                 <div class="clear"></div>
             </div><!--center-->
         </section><!--section-mains-->
     </main>
+    
     <section class="idiomas">
         <div class="center">
             <a class="selection-linguas" href="#">Português (Brasil)</a>
@@ -117,8 +115,6 @@
             <a title="Arabic" href="#">العربية</a>
             <a title="Hindi" href="#">हिन्दी</a>
             <a title="Simplified Chinese (China)" href="#">中文(简体)</a>
-
-
         </div><!--center-->
         <div style="border:0; padding-top:14px;" class="center">
             <a title="Cadastre-se no Facebook" href="#">Cadastre-se</a>
@@ -130,8 +126,6 @@
             <a title="Confira os jogos do Facebook." href="#">Jogos</a>
             <a title="Compre e venda no Facebook Marketplace." href="#">Marketplace</a>
             <a title="Saiba mais sobre o Meta Pay" href="#">Meta Pay</a>
-
-
         </div><!--center-->
     </section>
 </body>
